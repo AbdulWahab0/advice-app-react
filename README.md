@@ -1,5 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Advice App  with React
+---
+<img src="advice.png" width="120%" height="60%" />
 ## Available Scripts
 
 In the project directory, you can run:
